@@ -24,7 +24,7 @@ export class FormularioContatoComponent {
     this.contatoForm = new FormGroup({
       nome: new FormControl('Eriston Lima de Paula'),
       telefone: new FormControl('61 99225-9788'),
-      email: new FormControl('eriston@email.com'),
+      email: new FormControl('eristonlima@gmail.com'),
       aniversario: new FormControl('18/05/1978'),
       redes: new FormControl(''),
       observacoes: new FormControl('Obrigado por tudo, Senhor!!')
